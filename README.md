@@ -26,11 +26,11 @@ Showcase cloud best practices for scalable, cost-effective log analytics.
 
 
 Working Steps Diagram
-!(https://github.com/Department-of-IT-SGSITS/session-assignments-team-vp/blob/main/Working%20steps%20diagram.png?raw=true)
+!(https://github.com/Department-of-IT-SGSITS/session-assignments-team-vp/blob/77677a3e217b34206d83c911813e572e953bcc27/Working%20steps%20diagram.png))
 
 
 System Architecture
-!(https://github.com/Department-of-IT-SGSITS/session-assignments-team-vp/blob/main/System%20Architecture.png?raw=true)
+!(https://github.com/Department-of-IT-SGSITS/session-assignments-team-vp/blob/2425c8180ebc385c33a88e19d1bc1bd1bdd6ca82/System%20Architecture.png)
 
 
 Architecture Highlights
